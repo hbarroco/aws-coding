@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tvV0affpAi2L8CuQHnS4wQML/pIeXNex+KC08Im9aammvaKVkKPiMugII/iF5O3oPpBw0rifunpwTteKO82ZLQ==",
+  "success": true,
+  "projectFilePath": "/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/LambdaTemplateV1.csproj",
+  "expectedPackageFiles": [
+    "/home/hbarroco/.nuget/packages/amazon.lambda.apigatewayevents/2.6.0/amazon.lambda.apigatewayevents.2.6.0.nupkg.sha512",
+    "/home/hbarroco/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/home/hbarroco/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.1/amazon.lambda.serialization.systemtextjson.2.3.1.nupkg.sha512",
+    "/home/hbarroco/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/6.0.16/microsoft.netcore.app.runtime.linux-x64.6.0.16.nupkg.sha512",
+    "/home/hbarroco/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/6.0.16/microsoft.aspnetcore.app.runtime.linux-x64.6.0.16.nupkg.sha512",
+    "/home/hbarroco/.nuget/packages/microsoft.netcore.app.crossgen2.linux-x64/6.0.16/microsoft.netcore.app.crossgen2.linux-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

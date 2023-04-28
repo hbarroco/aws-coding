@@ -1,0 +1,17 @@
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/LambdaTemplateV1.deps.json
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/LambdaTemplateV1.runtimeconfig.json
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/LambdaTemplateV1.dll
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/ref/LambdaTemplateV1.dll
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/LambdaTemplateV1.pdb
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/Amazon.Lambda.Core.dll
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/obj/Debug/net6.0/LambdaTemplateV1.csproj.AssemblyReference.cache
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/obj/Debug/net6.0/LambdaTemplateV1.GeneratedMSBuildEditorConfig.editorconfig
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/obj/Debug/net6.0/LambdaTemplateV1.AssemblyInfoInputs.cache
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/obj/Debug/net6.0/LambdaTemplateV1.AssemblyInfo.cs
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/obj/Debug/net6.0/LambdaTemplateV1.csproj.CoreCompileInputs.cache
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/obj/Debug/net6.0/LambdaTemplateV1.csproj.CopyComplete
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/obj/Debug/net6.0/LambdaTemplateV1.dll
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/obj/Debug/net6.0/ref/LambdaTemplateV1.dll
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/obj/Debug/net6.0/LambdaTemplateV1.pdb
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/obj/Debug/net6.0/LambdaTemplateV1.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/linux-x64/publish/LambdaTemplateV1.deps.json
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/linux-x64/publish/LambdaTemplateV1.runtimeconfig.json
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/linux-x64/publish/LambdaTemplateV1.pdb
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/linux-x64/publish/Amazon.Lambda.Core.dll
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/linux-x64/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/hbarroco/workspace/aws-coding/LambdaTemplateV1/src/LambdaTemplateV1/bin/Debug/net6.0/linux-x64/publish/LambdaTemplateV1.dll

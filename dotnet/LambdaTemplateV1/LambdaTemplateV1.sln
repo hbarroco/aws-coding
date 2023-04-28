@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7D3FC80F-D420-4E83-A1CC-40BE59BE8E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaTemplateV1", "src\LambdaTemplateV1\LambdaTemplateV1.csproj", "{525FB83F-81E7-4B8D-B225-2F8A5F27A892}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{FB2562D3-B60E-4DCC-8822-F7AF12AB198E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaTemplateV1.Tests", "test\LambdaTemplateV1.Tests\LambdaTemplateV1.Tests.csproj", "{A7165DA6-F0D7-452C-BAFC-29CC3B2C4AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{525FB83F-81E7-4B8D-B225-2F8A5F27A892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525FB83F-81E7-4B8D-B225-2F8A5F27A892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525FB83F-81E7-4B8D-B225-2F8A5F27A892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525FB83F-81E7-4B8D-B225-2F8A5F27A892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7165DA6-F0D7-452C-BAFC-29CC3B2C4AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7165DA6-F0D7-452C-BAFC-29CC3B2C4AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7165DA6-F0D7-452C-BAFC-29CC3B2C4AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7165DA6-F0D7-452C-BAFC-29CC3B2C4AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{525FB83F-81E7-4B8D-B225-2F8A5F27A892} = {7D3FC80F-D420-4E83-A1CC-40BE59BE8E2D}
+		{A7165DA6-F0D7-452C-BAFC-29CC3B2C4AE1} = {FB2562D3-B60E-4DCC-8822-F7AF12AB198E}
+	EndGlobalSection
+EndGlobal

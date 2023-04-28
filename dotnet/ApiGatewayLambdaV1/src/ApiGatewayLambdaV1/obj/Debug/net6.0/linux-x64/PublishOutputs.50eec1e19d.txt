@@ -1,0 +1,7 @@
+/home/hbarroco/workspace/aws-coding/ApiGatewayLambdaV1/src/ApiGatewayLambdaV1/bin/Debug/net6.0/linux-x64/publish/ApiGatewayLambdaV1.deps.json
+/home/hbarroco/workspace/aws-coding/ApiGatewayLambdaV1/src/ApiGatewayLambdaV1/bin/Debug/net6.0/linux-x64/publish/ApiGatewayLambdaV1.runtimeconfig.json
+/home/hbarroco/workspace/aws-coding/ApiGatewayLambdaV1/src/ApiGatewayLambdaV1/bin/Debug/net6.0/linux-x64/publish/ApiGatewayLambdaV1.pdb
+/home/hbarroco/workspace/aws-coding/ApiGatewayLambdaV1/src/ApiGatewayLambdaV1/bin/Debug/net6.0/linux-x64/publish/Amazon.Lambda.APIGatewayEvents.dll
+/home/hbarroco/workspace/aws-coding/ApiGatewayLambdaV1/src/ApiGatewayLambdaV1/bin/Debug/net6.0/linux-x64/publish/Amazon.Lambda.Core.dll
+/home/hbarroco/workspace/aws-coding/ApiGatewayLambdaV1/src/ApiGatewayLambdaV1/bin/Debug/net6.0/linux-x64/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/home/hbarroco/workspace/aws-coding/ApiGatewayLambdaV1/src/ApiGatewayLambdaV1/bin/Debug/net6.0/linux-x64/publish/ApiGatewayLambdaV1.dll
